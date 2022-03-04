@@ -59,3 +59,38 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## Documentación (/◕ヮ◕)/
+
+<p align="center"><a href="LogoServicios" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/2470/premium/2470923.png?token=exp=1646427754~hmac=85b0b5629da9c0be120c2ef187b06cba" width="200"></a></p>
+
+## Contenido
+
+1. [Información](#id1)
+2. [Características](#id2)
+3. [Visualizar el proyecto](#id3)
+4. [Autor](#id4)
+
+## Información <a name = "id1"></a>
+
+Proyecto de una tienda en línea para adquirir y postear servicios
+
+## Características <a name = "id2"></a>
+
+- Servicios con información detallada e imagen
+- Información del ofertante del servicio (puntuación y servicios)
+- Control administrativo de los servicios en la página 
+- Comentarios en los posts a cerca del servicio brindado
+- Chat privado entre el cliente y el ofertante
+
+## Tutorial para visualizar el proyecto (PDF) <a name = "id3"></a>
+
+Descargar pdf ["PASOS PARA CORRER EL PROYECTO"](https://drive.google.com/file/d/1ZF-fJrZcaunfxnFM3gX0sJ1uek1mvdRV/view?usp=sharing)
+
+## Autor ʕ•ᴥ•ʔ <a name = "id4"></a>
+
+### Piero Criales Castro
+*Estudiante de Ingeniería de Software* 
+
+**Universidad Nacional Mayor de San Marcos (2018 - Actualidad)**
+
